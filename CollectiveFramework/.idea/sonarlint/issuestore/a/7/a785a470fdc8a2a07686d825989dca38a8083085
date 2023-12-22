@@ -1,14 +1,11 @@
 
->
-java:S1643"Use a StringBuilder instead.(¨¯¦«þÿÿÿÿ8¢¨¿‹É1
->
-java:S1643"Use a StringBuilder instead.(áù’ïÿÿÿÿÿ8èÏÀ‹É1
 o
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ó¨¿‹É1
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8ô†å’É1
 ;
-java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8ªô¶‹É1
+java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8õ†å’É1
 ;
-java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8ªô¶‹É1
+java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8õ†å’É1
 ;
-java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8ªô¶‹É1
-G	java:S106$"+Replace this use of System.out by a logger.(®õã‚8«ô¶‹É1
+java:S2178"Correct this "|" to "||".(–òê•ùÿÿÿÿ8õ†å’É1
+G	java:S106%"+Replace this use of System.out by a logger.(²¨ç÷8ö†å’É1
+G	java:S106+"+Replace this use of System.out by a logger.(®õã‚8¤åå’É1
