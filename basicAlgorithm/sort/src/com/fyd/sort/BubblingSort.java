@@ -16,7 +16,9 @@ public class BubblingSort {
     }
 
     private static void bubblingSort(int[] array) {
+        // 外循环：未排序区间为 [0, i]
         for (int i = 0; i < array.length; i++) {
+            // 内循环：将未排序区间 [0, i] 中的最大元素交换至该区间的最右端
             for (int j = i + 1; j < array.length; j++) {
                 if (array[j] < array[i]) {
                     array[j] = array[j] ^ array[i];
