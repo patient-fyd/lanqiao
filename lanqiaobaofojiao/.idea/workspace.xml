@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee160020-5c50-4a12-b037-bea5676bb326" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day01/src/FactorialSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/FactorialSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/MazeSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/triad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/src/vote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-17.0.4.1/lib/src.zip!/java.base/java/math/BigInteger.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -48,53 +54,54 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/code/lanqiao/lanqiaobaofojiao/day01/src/FactorialSum.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/code/lanqiao/lanqiaobaofojiao/day03/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="FactorialSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialSum" />
-      <module name="day01" />
+  <component name="RunManager" selected="Application.triad">
+    <configuration name="count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="count" />
+      <module name="tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialSum2" />
-      <module name="day01" />
+    <configuration name="excel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excel" />
+      <module name="tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MazeSolver" />
-      <module name="day01" />
+    <configuration name="find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find" />
+      <module name="tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
-      <module name="day02" />
+    <configuration name="find2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find2" />
+      <module name="tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintNumbers" />
-      <module name="day01" />
+    <configuration name="triad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="triad" />
+      <module name="tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.FactorialSum2" />
-        <item itemvalue="Application.FactorialSum" />
-        <item itemvalue="Application.MazeSolver" />
-        <item itemvalue="Application.PrintNumbers" />
+        <item itemvalue="Application.triad" />
+        <item itemvalue="Application.count" />
+        <item itemvalue="Application.excel" />
+        <item itemvalue="Application.find" />
+        <item itemvalue="Application.find2" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +117,14 @@
       <workItem from="1711089312895" duration="899000" />
       <workItem from="1711249947450" duration="1448000" />
       <workItem from="1711434875112" duration="2275000" />
+      <workItem from="1711502906507" duration="475000" />
+      <workItem from="1711503431362" duration="5206000" />
+      <workItem from="1711625608056" duration="1281000" />
+      <workItem from="1711628193040" duration="694000" />
+      <workItem from="1711682462036" duration="358000" />
+      <workItem from="1711683976298" duration="7681000" />
+      <workItem from="1711706410871" duration="954000" />
+      <workItem from="1711713157850" duration="2075000" />
     </task>
     <servers />
   </component>
